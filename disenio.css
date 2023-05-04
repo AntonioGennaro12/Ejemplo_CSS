@@ -1,0 +1,43 @@
+img {
+    width: 300px;
+}
+
+p {
+   width: 700px;
+   font-family: monospace; 
+   font-size: 15px;
+}
+
+.clas-1 {
+    border: 4px;
+    border-style: solid;
+    color: blue;
+}
+
+.clas-2 {
+    width: 400px;
+}
+.clas-4 {
+    width: 500px;
+}
+
+/*
+#img-2 {
+    width: 400px;
+}
+#img-4 {
+    width: 500px;
+}
+*/
+
+#img-5 {
+    border: 4px;
+    border-style: dotted;
+    color: black;
+}
+
+#par-5 {
+    border-bottom: 5px;
+    border-style: solid;
+    color: grey;
+}
