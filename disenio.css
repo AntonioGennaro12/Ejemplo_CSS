@@ -12,7 +12,23 @@ p {
     border: 4px;
     border-style: solid;
     color: blue;
+  }
+.clas-2 {
+    border: 4px;
+    border-style: solid;
+    color: green;
 }
+.clas-3 {
+    border: 4px;
+    border-style: solid;
+    color: red;
+}
+.clas-4 {
+    border: 4px;
+    border-style: solid;
+    color: pink;
+}
+    
 
 .clas-2 {
     width: 400px;
@@ -20,15 +36,6 @@ p {
 .clas-4 {
     width: 500px;
 }
-
-/*
-#img-2 {
-    width: 400px;
-}
-#img-4 {
-    width: 500px;
-}
-*/
 
 #img-5 {
     border: 4px;
